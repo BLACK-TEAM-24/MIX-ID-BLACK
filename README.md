@@ -19,11 +19,11 @@ pkg install rich
 
 rm -rf MIX-ID-BLACK
 
-git clone 
+git clone https://github.com/BLACK-TEAM-24/MIX-ID-BLACK.git
 
 cd MIX-ID-BLACK
 
-python 
+python mix-id-black.py
 # Follow My Facebook pages ⬇️:
 https://www.facebook.com/profile.php?id=100086521818069
 
