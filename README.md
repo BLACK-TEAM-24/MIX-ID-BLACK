@@ -23,8 +23,8 @@ git clone https://github.com/BLACK-TEAM-24/MIX-ID-BLACK.git
 
 cd MIX-ID-BLACK
 
-python mix-id-black.py
-# Follow My Facebook pages ⬇️:
+python mix-black.py
+# Follow My Facebook Groups ⬇️:
 https://www.facebook.com/profile.php?id=100086521818069
 
 # Join our Facebook group ⬇️:
